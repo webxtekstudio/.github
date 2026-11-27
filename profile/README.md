@@ -41,8 +41,8 @@ editorial content.
 
 ## Open source
 
-- [astro-stargazer](https://github.com/webxtekstudio/astro-stargazer): zero-config component preview for Astro ([npm](https://www.npmjs.com/package/astro-stargazer))
-- [hestiacp-useful-tools](https://github.com/webxtekstudio/hestiacp-useful-tools): hardening, security auditing and backup tools for HestiaCP
+- [astro-stargazer](https://github.com/josuetrindade/astro-stargazer): zero-config component preview for Astro ([npm](https://www.npmjs.com/package/astro-stargazer))
+- [hestiacp-useful-tools](https://github.com/josuetrindade/hestiacp-useful-tools): hardening, security auditing and backup tools for HestiaCP
 
 ## Contact
 
